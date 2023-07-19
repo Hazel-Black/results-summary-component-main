@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html5-css-mobile-first-css-custom-properties-flexbox-6pNWhIPym8)
+- Live Site URL: [results-summary-component-main](https://hazel-black.github.io/results-summary-component-main/)
 
 ### Built with
 
